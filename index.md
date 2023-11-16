@@ -176,7 +176,7 @@ Modify the block below if there are any special requirements.
 <p id="requirements">
   <strong>Requirements:</strong>
   {% if online == "false" %}
-    This workshop will take place in a computer lab and all necessary sfotware will be provided. Participants may bring a laptop with a
+    This workshop will take place in a computer lab and all necessary software will be provided. Participants may bring a laptop with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on instead.
   {% else %}
     Participants must have access to a computer with a
